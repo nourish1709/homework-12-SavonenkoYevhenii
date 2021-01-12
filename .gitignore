@@ -1,2 +1,4 @@
 # Project exclude paths
 /target/
+/.idea/
+/homework-12-SavonenkoYevhenii.iml
